@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9d3ff37-8242-42b8-9289-4fd11dd75cf7" name="Changes" comment="my first project">
-      <change afterPath="$PROJECT_DIR$/src/Funtion/sumFuntion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/addFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Funtion/PrintMyName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Funtion/PrintMyName.java" afterDir="false" />
-    </list>
+    <list default="true" id="c9d3ff37-8242-42b8-9289-4fd11dd75cf7" name="Changes" comment="init commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1755098365644</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init commit">
+      <created>1756921954228</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1756921954228</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,7 +85,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="my first project" />
-    <option name="LAST_COMMIT_MESSAGE" value="my first project" />
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
